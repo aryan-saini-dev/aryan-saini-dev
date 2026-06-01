@@ -1,15 +1,204 @@
-# 💫 About Me:
-👋 Hello! I’m Aryan Saini – GenAI Engineer, Creative Designer, and Content Creator<br><br>​🏆 | AIR 3 in Computer Science (12th) and Lead Developer & Designer at GDGC ABESIT<br><br>​💻 | Skilled in C++, Python, SQL, and GenAI fundamentals like Neural Networks and NLP<br><br>​🎨 | Experienced in Photoshop, Video Editing, and UI/UX for high-fidelity visual storytelling<br><br>​📱 | Building a community of 30,000+ followers on Instagram (@yaminokirito), merging technical design with creative content<br><br>​🚀 | Hackathon Finalist (AKTU Buildathon & Code-a-thon 4) currently focused on DSA and building in the Blockchain space<br><br>​🔗 Let’s connect to explore new opportunities, internships, and technical collaborations!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Creative%20Builder&descSize=18&descAlignY=58&descColor=aaaaff&animation=fadeIn" alt="Header" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yaminokirito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-saini-o9000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansaini2004feb@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C6CF7&center=true&vCenter=true&multiline=false&width=700&lines=🏆+Hacknovate+7.0+Winner;🤖+RAG+%7C+LangChain+%7C+LangGraph+%7C+TensorFlow;⛓️+Blockchain+%7C+Solidity+%7C+Smart+Contracts;🎨+UI%2FUX+Designer+%7C+Figma+%7C+Full+Stack;🔗+Let's+Build+Something+Extraordinary)](https://aryan-saini-portfolio.vercel.app/)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan-saini-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryan-saini-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-saini-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aryan--saini--portfolio.vercel.app-7C6CF7?style=for-the-badge&labelColor=0f0c29)](https://aryan-saini-portfolio.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/aryan-saini-o9000)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-30K+_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29)](https://instagram.com/Yaminokirito)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:aryansaini2004feb@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Who Am I
+
+```typescript
+const aryan = {
+  role       : ["GenAI Engineer", "Full-Stack Developer", "UI/UX Designer"],
+  education  : "B.Tech CSE (AI Specialization) @ ABESIT, Ghaziabad — 2023–2027",
+  focus      : ["RAG Pipelines", "LLM Agents", "Blockchain dApps", "Edge AI"],
+  community  : "Lead Developer & Designer @ GDG On Campus ABESIT",
+  achievement: "AIR 3 in Computer Science · Hacknovate 7.0 Winner · SIH 2025 Shortlisted",
+  social     : "30,000+ followers @yaminokirito (Instagram)",
+  currently  : "Building at the intersection of AI × Blockchain × Creative Design",
+  funFact    : "I turn caffeine into RAG pipelines and Figma frames into full products ☕"
+};
+```
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🥇 Achievement | 📋 Details |
+|---|---|
+| **Hacknovate 7.0 Winner** | AI Health Voice Agent — among 800+ competing teams at ABES IT |
+| **AIR 3 — Python / CS** | All India Rank 3 in Computer Science (12th board) |
+| **SIH 2025 Shortlisted** | Floatchat AI — oceanographic RAG engine |
+| **Code-A-Thon Finalist** | Verichain — AI-augmented blockchain property ledger |
+| **30K+ Community** | Content creator & tech educator on Instagram |
+| **AI/ML Intern @ FireLLama** | 70% parameter reduction · 45ms latency improvement in edge AI |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🩺 AI Health Voice Agent &nbsp; `Hacknovate 7.0 Winner`
+> Autonomous RAG-powered voice agent for clinical workflows — built with **Vapi · Gemini · Twilio · WhatsApp API**
+
+- 🔊 Conducts context-aware symptom screenings via voice calls
+- 📄 Auto-generates PDF diagnostic summaries post-call
+- 📲 Delivers reports via WhatsApp + schedules bookings — **30% reduction in consultation time**
+
+---
+
+### 🌊 Floatchat AI &nbsp; `SIH 2025 Shortlisted`
+> Oceanographic intelligence engine — **Llama Index · PostgreSQL · RAG · MERN**
+
+- 🔍 Transforms raw marine datasets into natural-language queryable intelligence
+- ⚡ Semantic search + hybrid reranking for precise environmental Q&A
+
+---
+
+### ⛓️ Verichain &nbsp; `Code-A-Thon 2025 Finalist`
+> Decentralized property ledger with AI audit — **Solidity · LangGraph · ethers.js · MERN**
+
+- 🔐 Secure smart contracts for automated society-level property transactions
+- 🤖 LangGraph-powered on-chain audit layer — **40% improved transparency** in asset verification
+
+---
+
+### 🤖 CRAG System &nbsp; `Freelance · Client Deployed`
+> Corrective Retrieval-Augmented Generation for production use — custom pipelines, real data, real clients
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🧠 AI / ML
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Full-Stack / Web
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+
+### ⛓️ Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/ethers.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-saini-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=7C6CF7&icon_color=7C6CF7&text_color=ffffff&ring_color=7C6CF7" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-saini-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C6CF7&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=aryan-saini-dev&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C6CF7&fire=FF9944&currStreakLabel=7C6CF7&sideLabels=7C6CF7" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-saini-dev&bg_color=0f0c29&color=7C6CF7&line=7C6CF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer |
+|---|---|
+| Generative AI | Google (GDSC) |
+| Artificial Intelligence | Amazon |
+| Data Science | NPTEL |
+| Natural Language Processing | CodeChef |
+| 150+ Problems Solved | LeetCode |
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```
+Dec 2025 – Mar 2026   🤖 AI/ML Engineering Intern @ FireLLama Technology Pvt Ltd
+                          MobileNetV2 · Edge Deployment · 70% param reduction · 45ms latency boost
+                          
+Oct 2024 – Jan 2025   🎨 UI/UX & Frontend Design Intern @ ALINS Group (Remote)
+                          Wireframes · Logos · Interactive Prototypes · Letter of Endorsement
+
+Mar 2024 – Present    💻 Freelance Developer (Self-Employed)
+                          CRAG Systems · Figma UI/UX · Client Deployments
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Together
+
+> *"The best way to predict the future is to build it."*
+
+I'm actively looking for **internships, collaborations, and open-source projects** in:
+**GenAI · Blockchain · Full-Stack · Creative Tech**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-7C6CF7?style=for-the-badge)](https://aryan-saini-portfolio.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-saini-o9000)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansaini2004feb@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="Footer" />
+
+</div>
