@@ -56,33 +56,12 @@ const aryan = {
 
 <div align="center">
 
-### 🩺 AI Health Voice Agent &nbsp; `Hacknovate 7.0 Winner`
-> Autonomous RAG-powered voice agent for clinical workflows — built with **Vapi · Gemini · Twilio · WhatsApp API**
-
-- 🔊 Conducts context-aware symptom screenings via voice calls
-- 📄 Auto-generates PDF diagnostic summaries post-call
-- 📲 Delivers reports via WhatsApp + schedules bookings — **30% reduction in consultation time**
-
----
-
-### 🌊 Floatchat AI &nbsp; `SIH 2025 Shortlisted`
-> Oceanographic intelligence engine — **Llama Index · PostgreSQL · RAG · MERN**
-
-- 🔍 Transforms raw marine datasets into natural-language queryable intelligence
-- ⚡ Semantic search + hybrid reranking for precise environmental Q&A
-
----
-
-### ⛓️ Verichain &nbsp; `Code-A-Thon 2025 Finalist`
-> Decentralized property ledger with AI audit — **Solidity · LangGraph · ethers.js · MERN**
-
-- 🔐 Secure smart contracts for automated society-level property transactions
-- 🤖 LangGraph-powered on-chain audit layer — **40% improved transparency** in asset verification
-
----
-
-### 🤖 CRAG System &nbsp; `Freelance · Client Deployed`
-> Corrective Retrieval-Augmented Generation for production use — custom pipelines, real data, real clients
+| | Project | Stack | Impact |
+|:---:|---|---|---|
+| 🩺 | **AI Health Voice Agent** <br/> `🏆 Hacknovate 7.0 Winner` <br/> <sub>Autonomous RAG voice agent for clinical workflows</sub> | `Vapi` `Gemini` `RAG` `Twilio` `WhatsApp API` | ⬇️ 30% consult time |
+| 🌊 | **Floatchat AI** <br/> `🎯 SIH 2025 Shortlisted` <br/> <sub>Oceanographic intelligence & marine data Q&A engine</sub> | `LlamaIndex` `PostgreSQL` `RAG` `MERN` | Semantic hybrid reranking |
+| ⛓️ | **Verichain** <br/> `🏅 Code-A-Thon 2025 Finalist` <br/> <sub>Decentralized property ledger with AI audit layer</sub> | `Solidity` `LangGraph` `ethers.js` `MERN` | ⬆️ 40% transparency |
+| 🤖 | **CRAG System** <br/> `💼 Freelance · Client Deployed` <br/> <sub>Corrective RAG pipelines for production client use</sub> | `Python` `LangChain` `Figma` `FastAPI` | Live in production |
 
 </div>
 
@@ -147,7 +126,7 @@ const aryan = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-saini-dev&bg_color=0f0c29&color=7C6CF7&line=7C6CF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://leetcard.jacoblin.cool/aryan-saini-dev?theme=dark&font=Karma&border=7C6CF7&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
